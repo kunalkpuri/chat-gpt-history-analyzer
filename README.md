@@ -40,6 +40,19 @@ A command-line tool to analyze chat history using OpenAI's GPT models. This tool
 
 ## Use Cases
 
+### Personal Use
+
+For individuals, **Chat GPT History Analyzer** helps keep track of long-term interactions with AI, making personal projects or learning experiences more cohesive and productive:
+
+1. **Memory**:
+   - The tool remembers your conversations with the AI, so you don’t have to start over each time. This is useful for ongoing projects or learning sessions.
+
+2. **Insight**:
+   - It can highlight important parts of past conversations, helping you recall significant details or decisions without re-reading everything.
+
+3. **Seamlessness**:
+   - If you need to pause a conversation and come back later, the tool ensures you can resume without missing a beat, making your interactions more efficient and productive.
+
 ### Customer Support
 
 **Chat GPT History Analyzer** can significantly enhance customer support by providing continuity and context in interactions between customers and support bots. Here’s how:
@@ -59,19 +72,6 @@ A command-line tool to analyze chat history using OpenAI's GPT models. This tool
 4. **Consistency Across Channels**:
    - **Problem**: Fragmented support experiences across different channels (email, chat, phone).
    - **Solution**: The tool integrates with various support channels, ensuring all interactions are logged and accessible, providing a consistent support experience.
-
-### Personal Use
-
-For individuals, **Chat GPT History Analyzer** helps keep track of long-term interactions with AI, making personal projects or learning experiences more cohesive and productive:
-
-1. **Memory**:
-   - The tool remembers your conversations with the AI, so you don’t have to start over each time. This is useful for ongoing projects or learning sessions.
-
-2. **Insight**:
-   - It can highlight important parts of past conversations, helping you recall significant details or decisions without re-reading everything.
-
-3. **Seamlessness**:
-   - If you need to pause a conversation and come back later, the tool ensures you can resume without missing a beat, making your interactions more efficient and productive.
 
 ### Business Use
 
