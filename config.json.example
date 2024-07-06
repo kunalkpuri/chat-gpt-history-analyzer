@@ -1,0 +1,7 @@
+{
+    "api_key": "your-api-key-here",
+    "chat_history_folder": "histories",
+    "session_folder": "sessions",
+    "default_session_file": "session_default.json",
+    "model": "gpt-4"
+}
